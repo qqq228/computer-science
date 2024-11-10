@@ -91,7 +91,7 @@ just remember that you can't purchase success!
 
 - [Prerequisites](#prerequisites)
 - [Intro CS](#intro-cs)
-  - [Introduction to Programming](#introduction-to-programming)
+  - ✅ [Introduction to Programming](#introduction-to-programming)
   - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
@@ -121,7 +121,7 @@ and is knowledgeable enough now to decide which electives to take.
 
 ## Intro CS
 
-### ✅ Introduction to Programming
+### Introduction to Programming
 
 If you've never written a for-loop, or don't know what a string is in programming, start here. This course is self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
 
