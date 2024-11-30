@@ -98,7 +98,7 @@ just remember that you can't purchase success!
   - ✅ [Core math](#core-math)
   - [CS Tools](#cs-tools)
   - [Core systems](#core-systems)
-  - [Core theory](#core-theory)
+  - ✅ [Core theory](#core-theory)
   - [Core security](#core-security)
   - [Core applications](#core-applications)
   - [Core ethics](#core-ethics)
