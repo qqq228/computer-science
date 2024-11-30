@@ -95,7 +95,7 @@ just remember that you can't purchase success!
   - ✅ [Introduction to Computer Science](#introduction-to-computer-science)
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
-  - [Core math](#core-math)
+  - ✅ [Core math](#core-math)
   - [CS Tools](#cs-tools)
   - [Core systems](#core-systems)
   - [Core theory](#core-theory)
